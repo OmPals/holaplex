@@ -14,6 +14,7 @@ describe('stylesheet', () => {
       type: 'png',
       url: "/demo-banner.png" }
     })
+    
 
     expect(sheet).to.not.be.null
   })
